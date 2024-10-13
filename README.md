@@ -18,3 +18,5 @@ weighted average of 92% in all F1 scores, precision, and recall.
 Furthermore, the training, validation, and testing accuracies of 
 97.15%, 91.75%, and 91.85%, respectively, showcase its efficacy 
 for ship classification in diverse maritime applications.
+
+dataset link: https://www.kaggle.com/datasets/arpitjain007/game-of-deep-learningship-datasets.  
